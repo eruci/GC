@@ -2,6 +2,26 @@ Title: Extract locations from text with Geo::Parser::Text
 Topic: modules
 Author: Ervin Ruci <ervinruci@geocode.xyz>
 
+
+	Building a Treasure Map
+
+	I know there is a treasure
+	of unknown size somewhere
+	wish I could measure
+	wish I knew where
+
+	will the treasure just drop
+	off Santa's bag onto my lap
+	or do I have to go out of my way
+	and to carry it off into my lair
+
+	treasures are fun to have
+	and even great to possess
+	but the greatest fun to be had
+	is by truly finding out where.
+
+	
+
 =head1 Not so long ago
 
 Geoparsing has been attempted on and off over the recent past. The now defunct Yahoo Placenames was used to extract and disambiguate place names from text. Other notable defunct projects include BioGeomancer from Berkley and NGA GEOnet Names Server)
