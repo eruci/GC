@@ -252,7 +252,7 @@ Taken from the 1930s The Falls News. Spelling and grammar retained.
 
 
 Upload them and you get the Map
-
+=for html
 <center><img src="map.png" width="284" height="331"/></center>
 
 Santa's got his work cut out now.
